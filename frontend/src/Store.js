@@ -52,6 +52,7 @@ function reducer(state, action) {
     }
 
     case 'USER_SIGNIN':
+      console.log("hlo",action.payload)
       return { ...state, userInfo: action.payload };
 
     case 'USER_SIGNOUT':

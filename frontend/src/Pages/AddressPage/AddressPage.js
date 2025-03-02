@@ -52,7 +52,7 @@ export default function AddressPage() {
   return (
     <div>
       <Helmet>
-        <title>Shipping Address-EcomBidding</title>
+        <title>Shipping Address-Bidding</title>
       </Helmet>
       <div className="area">
         <ul className="circles">

@@ -29,8 +29,7 @@ app.get('/api/keys/paypal', (req, res) => {
 
 app.use('/api/seed', seedRouter);
 
-mongoose
-  .connect(process.env.MONGODB_URI)
+mongoose.connect(process.env.MONGODB_URI)
   .then(() => {
     console.log('[DB] Connection Success');
   })

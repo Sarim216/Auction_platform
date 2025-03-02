@@ -43,7 +43,7 @@ function AuctionItem({
   return (
     <div className="bg-white shadow-md rounded-md overflow-hidden" key={id}>
       <Helmet>
-        <title>Auction House-EcomBidding</title>
+        <title>Auctioneer's Arena</title>
       </Helmet>
       <div className="relative">
         <img

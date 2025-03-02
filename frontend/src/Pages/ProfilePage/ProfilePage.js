@@ -56,6 +56,7 @@ function ProfilePage() {
       return;
     }
     try {
+      console.log("hlo",sellerName)
       const { data } = await axios.put(
         `/api/users/profile/${userId}`,
         {

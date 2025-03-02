@@ -173,7 +173,7 @@ const AuctionDetail = () => {
                   </div>
                 )}
               </>
-            ) : auction.bids[auction.bids.length - 1].bidder ===
+            ) : auction?.bids[auction.bids.length - 1]?.bidder ===
               userInfo.name ? (
               <button className="inline-block px-6 py-2 w-full leading-5 font-semibold rounded-lg text-white bg-green-500 hover:bg-green-600 focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-offset-2 cursor-default">
                 You have the highest bid 🎉

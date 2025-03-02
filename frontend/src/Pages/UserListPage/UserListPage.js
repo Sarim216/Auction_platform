@@ -44,7 +44,7 @@ export default function UserListPage() {
       loading: true,
       error: '',
     });
-
+console.log("hlo", users)
   const navigate = useNavigate();
 
   const { state } = useContext(Store);

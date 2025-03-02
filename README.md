@@ -1,4 +1,4 @@
-# <div align="center">EcomBidding</div>
+# <div align="center">Auctioneer's Arena</div>
 
 <div align="center">
   <img src="https://i.imgur.com/muCFlpP.png" />
