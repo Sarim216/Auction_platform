@@ -53,13 +53,6 @@ Emphasizing a user-centric design and a robust set of features, our web applicat
 
 - Pagination for user-friendly interface
 
-<br/>
-
-## Project Live On
-
-<a href="https://ecombidding.netlify.app/">Netlify</a>
-<br/>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/57157fd5-fb29-4d16-8617-fd908415a384/deploy-status)](https://app.netlify.com/sites/ecombidding/deploys)
 
 ## Technology Used
 
